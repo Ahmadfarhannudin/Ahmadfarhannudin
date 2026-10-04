@@ -2,6 +2,8 @@
 
 # Hi there, I'm Ahmad Farhannudin 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Aspiring+Software+Developer;Mobile+Dev+Enthusiast;Turning+coffee+into+code)](https://git.io/typing-svg)
+
 ### 🎓 Computer Science Student | 💻 Aspiring Software Developer
 
 [![GitHub followers](https://img.shields.io/github/followers/Ahmadfarhannudin?style=social)](https://github.com/Ahmadfarhannudin)
