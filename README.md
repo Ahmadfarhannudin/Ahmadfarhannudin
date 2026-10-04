@@ -1,15 +1,11 @@
 <div align="center">
 
-# Hi there, I'm Ahmad Farhannudin 👋
+![Animated GitHub Card](https://gitskins.com/api/card-animated?username=Ahmadfarhannudin&theme=github-dark)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Aspiring+Software+Developer;Mobile+Dev+Enthusiast;Turning+coffee+into+code)](https://git.io/typing-svg)
-
-### 🎓 Computer Science Student | 💻 Aspiring Software Developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Aspiring+Software+Developer;Mobile+Dev+Enthusiast;Turning+coffee+into+code)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/Ahmadfarhannudin?style=social)](https://github.com/Ahmadfarhannudin)
-[![Profile views](https://komarev.com/ghpvc/?username=Ahmadfarhannudin&color=0e75b6&style=flat)](https://github.com/Ahmadfarhannudin)
-
-*Turning caffeine into code, one commit at a time.* ☕
+[![Profile views](https://komarev.com/ghpvc/?username=Ahmadfarhannudin&color=58a6ff&style=flat)](https://github.com/Ahmadfarhannudin)
 
 </div>
 
@@ -57,13 +53,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmadfarhannudin&theme=tokyonight&hide_border=true)
 
-</div>
-
----
-
-
-<div align="center">
-
 ### 🐍 Watch my contributions get eaten!
 
 ![snake](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/output/github-snake.svg)
@@ -71,6 +60,7 @@
 </div>
 
 ---
+
 ## 🏆 Featured Projects
 
 | Project | Description | Tech |
