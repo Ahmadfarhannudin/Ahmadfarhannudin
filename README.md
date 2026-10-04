@@ -1,4 +1,4 @@
-![space header](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/main/assets/space-header.svg)
+![space header](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/main/assets/space-header-v2.svg)
 
 <div align="center">
 
