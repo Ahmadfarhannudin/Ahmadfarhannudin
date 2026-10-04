@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" font-family="Segoe UI, Ubuntu, Cantarell, sans-serif">
+<defs>
+<linearGradient id="cbg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#0d1526"/>
+<stop offset="55%" stop-color="#0a0f22"/>
+<stop offset="100%" stop-color="#060a18"/>
+</linearGradient>
+<radialGradient id="cneb" cx="50%" cy="50%" r="50%">
+<stop offset="0%" stop-color="#5b3df5" stop-opacity="0.22"/>
+<stop offset="100%" stop-color="#5b3df5" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="avglow" cx="50%" cy="50%" r="50%">
+<stop offset="55%" stop-color="#58a6ff" stop-opacity="0"/>
+<stop offset="80%" stop-color="#58a6ff" stop-opacity="0.35"/>
+<stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="divider" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#58a6ff" stop-opacity="0.9"/>
+<stop offset="100%" stop-color="#bd93f9" stop-opacity="0.1"/>
+</linearGradient>
+<filter id="cblur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="24"/></filter>
+<clipPath id="avClip"><circle cx="170" cy="160" r="58"/></clipPath>
+</defs>
+<rect x="4" y="4" width="992" height="312" rx="22" fill="url(#cbg)" stroke="#22304f" stroke-width="2"/>
+<ellipse cx="830" cy="70" rx="180" ry="100" fill="url(#cneb)" filter="url(#cblur)"/>
+<ellipse cx="150" cy="260" rx="160" ry="90" fill="url(#cneb)" filter="url(#cblur)" opacity="0.6"/>
+<circle cx="454.3" cy="176.7" r="2.0" fill="#cfe6ff"><animate attributeName="opacity" values="0.16;1;0.16" dur="3.16s" begin="3.42s" repeatCount="indefinite"/></circle>
+<circle cx="791.7" cy="153.2" r="1.2" fill="#cfe6ff"><animate attributeName="opacity" values="0.14;1;0.14" dur="2.08s" begin="1.21s" repeatCount="indefinite"/></circle>
+<circle cx="797.3" cy="214.2" r="0.9" fill="#cfe6ff"><animate attributeName="opacity" values="0.22;1;0.22" dur="3.59s" begin="1.58s" repeatCount="indefinite"/></circle>
+<circle cx="729.4" cy="202.0" r="0.9" fill="#cfe6ff"><animate attributeName="opacity" values="0.13;1;0.13" dur="4.3s" begin="0.25s" repeatCount="indefinite"/></circle>
+<circle cx="864.4" cy="187.9" r="2.0" fill="#cfe6ff"><animate attributeName="opacity" values="0.16;1;0.16" dur="2.78s" begin="2.36s" repeatCount="indefinite"/></circle>
+<circle cx="244.3" cy="102.4" r="0.9" fill="#cfe6ff"><animate attributeName="opacity" values="0.18;1;0.18" dur="3.79s" begin="1.83s" repeatCount="indefinite"/></circle>
+<circle cx="977.7" cy="298.8" r="0.9" fill="#cfe6ff"><animate attributeName="opacity" values="0.17;1;0.17" dur="3.92s" begin="1.26s" repeatCount="indefinite"/></circle>
+<circle cx="297.5" cy="39.7" r="0.9" fill="#cfe6ff"><animate attributeName="opacity" values="0.21;1;0.21" dur="3.0s" begin="3.39s" repeatCount="indefinite"/></circle>
+<circle cx="939.7" cy="257.2" r="0.9" fill="#cfe6ff"><animate attributeName="opacity" values="0.13;1;0.13" dur="2.44s" begin="3.71s" repeatCount="indefinite"/></circle>
+<circle cx="380.4" cy="218.5" r="2.0" fill="#cfe6ff"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.02s" begin="2.52s" repeatCount="indefinite"/></circle>
+<circle cx="279.0" cy="44.4" r="1.6" fill="#cfe6ff"><animate attributeName="opacity" values="0.33;1;0.33" dur="1.85s" begin="1.64s" repeatCount="indefinite"/></circle>
+<circle cx="149.2" cy="218.0" r="0.9" fill="#cfe6ff"><animate attributeName="opacity" values="0.16;1;0.16" dur="1.98s" begin="3.19s" repeatCount="indefinite"/></circle>
+<circle cx="556.9" cy="145.3" r="1.2" fill="#cfe6ff"><animate attributeName="opacity" values="0.22;1;0.22" dur="4.76s" begin="3.08s" repeatCount="indefinite"/></circle>
+<circle cx="388.4" cy="130.6" r="1.2" fill="#cfe6ff"><animate attributeName="opacity" values="0.34;1;0.34" dur="1.8s" begin="3.46s" repeatCount="indefinite"/></circle>
+<circle cx="589.0" cy="299.4" r="0.9" fill="#cfe6ff"><animate attributeName="opacity" values="0.32;1;0.32" dur="2.43s" begin="1.58s" repeatCount="indefinite"/></circle>
+<circle cx="636.2" cy="48.1" r="1.2" fill="#cfe6ff"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.44s" begin="1.03s" repeatCount="indefinite"/></circle>
+<circle cx="335.8" cy="103.0" r="0.9" fill="#cfe6ff"><animate attributeName="opacity" values="0.27;1;0.27" dur="2.02s" begin="0.83s" repeatCount="indefinite"/></circle>
+<circle cx="34.9" cy="123.2" r="2.0" fill="#cfe6ff"><animate attributeName="opacity" values="0.31;1;0.31" dur="2.18s" begin="2.35s" repeatCount="indefinite"/></circle>
+<circle cx="150.3" cy="128.1" r="1.2" fill="#cfe6ff"><animate attributeName="opacity" values="0.26;1;0.26" dur="2.73s" begin="0.91s" repeatCount="indefinite"/></circle>
+<circle cx="716.4" cy="64.4" r="1.2" fill="#cfe6ff"><animate attributeName="opacity" values="0.23;1;0.23" dur="3.86s" begin="1.55s" repeatCount="indefinite"/></circle>
+<circle cx="95.4" cy="33.3" r="0.9" fill="#cfe6ff"><animate attributeName="opacity" values="0.17;1;0.17" dur="1.92s" begin="3.85s" repeatCount="indefinite"/></circle>
+<circle cx="696.4" cy="92.0" r="2.0" fill="#cfe6ff"><animate attributeName="opacity" values="0.29;1;0.29" dur="2.68s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle cx="86.0" cy="84.0" r="0.9" fill="#cfe6ff"><animate attributeName="opacity" values="0.17;1;0.17" dur="2.64s" begin="3.67s" repeatCount="indefinite"/></circle>
+<circle cx="35.9" cy="95.4" r="2.0" fill="#cfe6ff"><animate attributeName="opacity" values="0.18;1;0.18" dur="2.55s" begin="0.19s" repeatCount="indefinite"/></circle>
+<circle cx="529.8" cy="292.5" r="0.9" fill="#cfe6ff"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.89s" begin="3.56s" repeatCount="indefinite"/></circle>
+<circle cx="650.7" cy="213.5" r="1.2" fill="#cfe6ff"><animate attributeName="opacity" values="0.23;1;0.23" dur="3.57s" begin="3.69s" repeatCount="indefinite"/></circle>
+<circle cx="363.2" cy="107.3" r="0.9" fill="#cfe6ff"><animate attributeName="opacity" values="0.23;1;0.23" dur="1.86s" begin="2.54s" repeatCount="indefinite"/></circle>
+<circle cx="721.3" cy="109.3" r="0.9" fill="#cfe6ff"><animate attributeName="opacity" values="0.29;1;0.29" dur="2.03s" begin="2.18s" repeatCount="indefinite"/></circle>
+<circle cx="884.2" cy="226.4" r="1.2" fill="#cfe6ff"><animate attributeName="opacity" values="0.2;1;0.2" dur="4.18s" begin="3.66s" repeatCount="indefinite"/></circle>
+<circle cx="677.7" cy="272.2" r="2.0" fill="#cfe6ff"><animate attributeName="opacity" values="0.23;1;0.23" dur="4.63s" begin="0.12s" repeatCount="indefinite"/></circle>
+<circle cx="34.0" cy="205.4" r="2.0" fill="#cfe6ff"><animate attributeName="opacity" values="0.14;1;0.14" dur="3.55s" begin="2.44s" repeatCount="indefinite"/></circle>
+<circle cx="633.8" cy="298.1" r="2.0" fill="#cfe6ff"><animate attributeName="opacity" values="0.29;1;0.29" dur="3.98s" begin="1.55s" repeatCount="indefinite"/></circle>
+<circle cx="577.7" cy="143.3" r="0.9" fill="#cfe6ff"><animate attributeName="opacity" values="0.19;1;0.19" dur="3.36s" begin="2.06s" repeatCount="indefinite"/></circle>
+<circle cx="104.2" cy="26.2" r="0.9" fill="#cfe6ff"><animate attributeName="opacity" values="0.33;1;0.33" dur="3.29s" begin="2.46s" repeatCount="indefinite"/></circle>
+<circle cx="265.6" cy="23.2" r="1.6" fill="#cfe6ff"><animate attributeName="opacity" values="0.24;1;0.24" dur="2.23s" begin="2.45s" repeatCount="indefinite"/></circle>
+<circle cx="743.6" cy="115.9" r="2.0" fill="#cfe6ff"><animate attributeName="opacity" values="0.21;1;0.21" dur="3.29s" begin="0.97s" repeatCount="indefinite"/></circle>
+<circle cx="260.6" cy="197.6" r="1.2" fill="#cfe6ff"><animate attributeName="opacity" values="0.25;1;0.25" dur="4.44s" begin="1.54s" repeatCount="indefinite"/></circle>
+<circle cx="323.8" cy="58.1" r="2.0" fill="#cfe6ff"><animate attributeName="opacity" values="0.13;1;0.13" dur="2.85s" begin="3.58s" repeatCount="indefinite"/></circle>
+<circle cx="81.6" cy="294.5" r="1.2" fill="#cfe6ff"><animate attributeName="opacity" values="0.33;1;0.33" dur="2.14s" begin="1.89s" repeatCount="indefinite"/></circle>
+<circle cx="817.7" cy="127.1" r="2.0" fill="#cfe6ff"><animate attributeName="opacity" values="0.31;1;0.31" dur="3.82s" begin="2.87s" repeatCount="indefinite"/></circle>
+<circle cx="619.8" cy="109.7" r="0.9" fill="#cfe6ff"><animate attributeName="opacity" values="0.28;1;0.28" dur="2.63s" begin="2.43s" repeatCount="indefinite"/></circle>
+<circle cx="289.8" cy="119.2" r="0.9" fill="#cfe6ff"><animate attributeName="opacity" values="0.16;1;0.16" dur="3.72s" begin="1.62s" repeatCount="indefinite"/></circle>
+<circle cx="758.4" cy="94.6" r="1.2" fill="#cfe6ff"><animate attributeName="opacity" values="0.15;1;0.15" dur="4.19s" begin="3.94s" repeatCount="indefinite"/></circle>
+<circle cx="124.7" cy="169.9" r="1.6" fill="#cfe6ff"><animate attributeName="opacity" values="0.17;1;0.17" dur="4.68s" begin="2.74s" repeatCount="indefinite"/></circle>
+<circle cx="476.1" cy="70.0" r="0.9" fill="#cfe6ff"><animate attributeName="opacity" values="0.13;1;0.13" dur="4.07s" begin="2.14s" repeatCount="indefinite"/></circle>
+<circle cx="170" cy="160" r="86" fill="url(#avglow)">
+<animate attributeName="opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="170" cy="160" r="58" fill="#16213a"/>
+<text x="170" y="176" text-anchor="middle" font-size="36" font-weight="bold" fill="#58a6ff">AF</text>
+<ellipse cx="170" cy="160" rx="100" ry="100" fill="none" stroke="#58a6ff" stroke-width="1.2" stroke-dasharray="4 7" opacity="0.4"/>
+<ellipse cx="170" cy="160" rx="128" ry="128" fill="none" stroke="#bd93f9" stroke-width="1" stroke-dasharray="3 8" opacity="0.3"/>
+<g>
+<animateTransform attributeName="transform" type="rotate" from="0 170 160" to="360 170 160" dur="14s" repeatCount="indefinite"/>
+<g transform="translate(270,160)">
+<animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="14s" repeatCount="indefinite" additive="replace"/>
+<circle cx="0" cy="0" r="20" fill="#0d1526" stroke="#2a3a5c" stroke-width="1.5"/>
+<image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" x="-13" y="-13" width="26" height="26"/>
+</g>
+</g>
+<g>
+<animateTransform attributeName="transform" type="rotate" from="0 170 160" to="360 170 160" dur="22s" repeatCount="indefinite"/>
+<g transform="translate(270,160)">
+<animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="22s" repeatCount="indefinite" additive="replace"/>
+<circle cx="0" cy="0" r="20" fill="#0d1526" stroke="#2a3a5c" stroke-width="1.5"/>
+<image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" x="-13" y="-13" width="26" height="26"/>
+</g>
+</g>
+<g>
+<animateTransform attributeName="transform" type="rotate" from="0 170 160" to="360 170 160" dur="30s" repeatCount="indefinite"/>
+<g transform="translate(298,160)">
+<animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="30s" repeatCount="indefinite" additive="replace"/>
+<circle cx="0" cy="0" r="20" fill="#0d1526" stroke="#2a3a5c" stroke-width="1.5"/>
+<image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" x="-13" y="-13" width="26" height="26"/>
+</g>
+</g>
+<g>
+<animateTransform attributeName="transform" type="rotate" from="0 170 160" to="360 170 160" dur="38s" repeatCount="indefinite"/>
+<g transform="translate(298,160)">
+<animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="38s" repeatCount="indefinite" additive="replace"/>
+<circle cx="0" cy="0" r="20" fill="#0d1526" stroke="#2a3a5c" stroke-width="1.5"/>
+<image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" x="-13" y="-13" width="26" height="26"/>
+</g>
+</g>
+<image href="https://github.com/Ahmadfarhannudin.png" x="112" y="102" width="116" height="116" clip-path="url(#avClip)" preserveAspectRatio="xMidYMid slice"/>
+<circle cx="170" cy="160" r="58" fill="none" stroke="#58a6ff" stroke-width="3" opacity="0.9"/>
+<text x="340" y="105" font-size="42" font-weight="bold" fill="#f0f4ff">Ahmad Farhannudin</text>
+<text x="342" y="140" font-size="21" fill="#58a6ff">@Ahmadfarhannudin</text>
+<rect x="340" y="158" width="420" height="3" rx="1.5" fill="url(#divider)"/>
+<text x="340" y="196" font-size="20" fill="#c9d4e8">🎓 Computer Science Student</text>
+<text x="340" y="228" font-size="20" fill="#c9d4e8">📱 Aspiring Mobile Developer</text>
+<g>
+<circle cx="350" cy="262" r="7" fill="#3fb950">
+<animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/>
+</circle>
+<text x="366" y="269" font-size="18" fill="#8b949e">Open to collaboration &amp; internships</text>
+</g>
+<g opacity="0.9">
+<animateTransform attributeName="transform" type="translate" values="1020 40; 640 -30" dur="12s" repeatCount="indefinite"/>
+<text x="0" y="0" font-size="26" transform="rotate(18)">🚀</text>
+</g>
+</svg>
