@@ -53,9 +53,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmadfarhannudin&theme=tokyonight&hide_border=true)
 
-### ✨ Profile Card
+### 🪐 Mission Control
 
-![Animated GitHub Card](https://gitskins.com/api/card-animated?username=Ahmadfarhannudin&theme=dracula)
+![Mission control card](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/main/assets/mission-control.svg)
 
 ### 💣 Watch my contributions get blasted!
 
