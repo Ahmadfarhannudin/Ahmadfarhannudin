@@ -2,8 +2,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Computer+Science+Student;Aspiring+Software+Developer;Mobile+Dev+Enthusiast;Thanks+for+stopping+by)](https://git.io/typing-svg)
-
 [![GitHub followers](https://img.shields.io/github/followers/Ahmadfarhannudin?style=social)](https://github.com/Ahmadfarhannudin)
 [![Profile views](https://komarev.com/ghpvc/?username=Ahmadfarhannudin&color=58a6ff&style=flat)](https://github.com/Ahmadfarhannudin)
 
@@ -52,10 +50,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadfarhannudin&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmadfarhannudin&theme=tokyonight&hide_border=true)
-
-### 🪐 Mission Control
-
-![Mission control card](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/main/assets/mission-control.svg)
 
 ### 💣 Watch my contributions get blasted!
 
