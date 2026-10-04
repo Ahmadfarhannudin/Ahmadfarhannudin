@@ -53,9 +53,13 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmadfarhannudin&theme=tokyonight&hide_border=true)
 
-### 🐍 Watch my contributions get eaten!
+### 💣 Watch my contributions get blasted!
 
-![snake](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/output/github-snake.svg)
+<!-- 💣 Bomberman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/output/bomberman-contribution-graph-dark.svg">
+  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/output/bomberman-contribution-graph.svg">
+</picture>
 
 </div>
 
