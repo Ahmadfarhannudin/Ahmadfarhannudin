@@ -61,6 +61,16 @@
 
 ---
 
+
+<div align="center">
+
+### 🐍 Watch my contributions get eaten!
+
+![snake](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/output/github-snake.svg)
+
+</div>
+
+---
 ## 🏆 Featured Projects
 
 | Project | Description | Tech |
