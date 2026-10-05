@@ -1,9 +1,9 @@
-![space header](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/main/assets/space-header-v5.svg)
+![space header](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/main/assets/space-header-v6.svg)
 
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/Ahmadfarhannudin?style=social)](https://github.com/Ahmadfarhannudin)
-[![Profile views](https://komarev.com/ghpvc/?username=Ahmadfarhannudin&color=58a6ff&style=flat)](https://github.com/Ahmadfarhannudin)
+![Profile views](https://api.visitorbadge.io/api/visitors?path=Ahmadfarhannudin.Ahmadfarhannudin&label=Profile%20views&countColor=%2358a6ff)
 
 </div>
 
