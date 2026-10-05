@@ -27,11 +27,11 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science student based in **Indonesia**
-- 💡 Passionate about **mobile development** and **software engineering**
-- 🌱 Currently learning and building with **Kotlin**, **Java**, and **Python**
-- 🎯 Goal: become a professional software developer
-- 🎵 When I'm not coding, I'm probably making content or discovering new music
+<div align="center">
+
+![profile scan](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/main/assets/profile-scan.svg)
+
+</div>
 
 ---
 
