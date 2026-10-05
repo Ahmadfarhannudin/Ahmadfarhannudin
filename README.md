@@ -1,9 +1,9 @@
-![space header](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/main/assets/space-header-v6.svg)
+![space header](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/main/assets/space-header-v7.svg)
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/Ahmadfarhannudin?style=social)](https://github.com/Ahmadfarhannudin)
-![Profile views](https://api.visitorbadge.io/api/visitors?path=Ahmadfarhannudin.Ahmadfarhannudin&label=Profile%20views&countColor=%2358a6ff)
+<a href="https://github.com/Ahmadfarhannudin"><img height="28" src="https://img.shields.io/github/followers/Ahmadfarhannudin?style=social" alt="GitHub followers"></a>
+<img height="28" src="https://api.visitorbadge.io/api/visitors?path=Ahmadfarhannudin.Ahmadfarhannudin&label=Profile%20views&countColor=%2358a6ff" alt="Profile views">
 
 </div>
 
