@@ -104,13 +104,12 @@ width="70%"
 
 ## 💣 Watch my contributions get blasted!
 
-<!-- 💣 Bomberman (dark theme) -->
-
 <div align="center">
 
 <img
-src="https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/output/bomberman-contribution-graph-dark.svg"
-width="95%"
+src="https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/main/assets/bomberman-green-contribution.svg"
+width="100%"
+alt="Animated Bomberman contribution graph"
 />
 
 </div>
