@@ -1,4 +1,4 @@
-![space header](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/main/assets/space-header-v4.svg)
+![space header](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/main/assets/space-header-v5.svg)
 
 <div align="center">
 
@@ -60,42 +60,13 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<table width="100%">
-<tr>
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmadfarhannudin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<td align="center" width="50%">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadfarhannudin&layout=compact&theme=tokyonight&hide_border=true)
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=Ahmadfarhannudin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage"
-width="100%"
-/>
-
-</td>
-
-<td align="center" width="50%">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadfarhannudin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-width="100%"
-/>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadfarhannudin&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
-width="70%"
-/>
-
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmadfarhannudin&theme=tokyonight&hide_border=true)
 
 ### 💣 Watch my contributions get blasted!
 
@@ -104,6 +75,16 @@ width="70%"
 
 </div>
 
+---
+
+## 🏆 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [prediksi-nilai](https://github.com/Ahmadfarhannudin/prediksi-nilai) | Value prediction project | Python |
+| [manajemen-akademik](https://github.com/Ahmadfarhannudin/manajemen-akademik) | Academic management system | Java |
+| [project_pkl](https://github.com/Ahmadfarhannudin/project_pkl) | Internship project | JavaScript |
+| [london-departure-times](https://github.com/Ahmadfarhannudin/london-departure-times) | Departure times app | Go |
 
 ---
 
