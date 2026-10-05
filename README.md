@@ -29,7 +29,7 @@
 
 <div align="center">
 
-![profile scan](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/main/assets/profile-scan-v10.svg)
+![profile scan](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/main/assets/profile-scan-v11.svg)
 
 </div>
 
