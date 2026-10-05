@@ -124,16 +124,6 @@ width="70%"
 
 </div>
 
----
-
-## 🏆 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [prediksi-nilai](https://github.com/Ahmadfarhannudin/prediksi-nilai) | Value prediction project | Python |
-| [manajemen-akademik](https://github.com/Ahmadfarhannudin/manajemen-akademik) | Academic management system | Java |
-| [project_pkl](https://github.com/Ahmadfarhannudin/project_pkl) | Internship project | JavaScript |
-| [london-departure-times](https://github.com/Ahmadfarhannudin/london-departure-times) | Departure times app | Go |
 
 ---
 
