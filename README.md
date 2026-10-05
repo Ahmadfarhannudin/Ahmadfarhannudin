@@ -6,7 +6,54 @@
 [![Profile views](https://komarev.com/ghpvc/?username=Ahmadfarhannudin&color=58a6ff&style=flat)](https://github.com/Ahmadfarhannudin)
 
 </div>
+<div align="center">
 
+### 🎧 Now Playing
+
+<table width="90%">
+<tr>
+
+<td width="130" align="center">
+
+<a href="https://open.spotify.com/playlist/1L2WqUrCNTPee0GsmjWQ9V">
+
+<img
+src="PLAYLIST_COVER_URL"
+width="120"
+height="120"
+style="border-radius:12px"
+alt="My Spotify Playlist"
+/>
+
+</a>
+
+</td>
+
+<td align="left">
+
+<sub>PLAYLIST</sub>
+
+### My Playlist
+
+**Ahmad Farhannudin**
+
+🎵 Playing my favorite tracks while coding...
+
+<br><br>
+
+<a href="https://open.spotify.com/playlist/1L2WqUrCNTPee0GsmjWQ9V">
+<img
+src="https://img.shields.io/badge/▶%20Open%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
+alt="Open Spotify"
+/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 ---
 
 ## 🚀 About Me
