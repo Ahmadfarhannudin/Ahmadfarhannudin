@@ -15,24 +15,14 @@
 
 ![now playing](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/main/assets/now-playing.svg)
 
-**🎵 [lalaguan we](https://open.spotify.com/playlist/1L2WqUrCNTPee0GsmjWQ9V)** — playlist andalanku di Spotify
+![my favorite tracks](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/main/assets/playlist.svg)
 
-| # | Cover | Judul | Artis | Durasi |
-|---|-------|-------|-------|--------|
-| 1 | <img src="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02a704dd8cf7227c7f747b633b" width="48" height="48" /> | [**Kerasnya Kota**](https://open.spotify.com/track/6jkMvmZNH8vszD0dLbUMaj) | Davisiumbing | 4:13 |
-| 2 | <img src="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e0223e007677b3553867c54209b" width="48" height="48" /> | [**Seandainya**](https://open.spotify.com/track/1VMtsqCaMNErFRmmvt4exv) | Vierra | 4:23 |
-| 3 | <img src="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02f20ec6ba1f431a90dbf2e8b6" width="48" height="48" /> | [**Komang**](https://open.spotify.com/track/2AaaE0qvFWtyT8srKNfRhH) | Raim Laode | 3:42 |
-| 4 | <img src="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e0292a62d6269f49656d57023ba" width="48" height="48" /> | [**Cinta Sejati**](https://open.spotify.com/track/7zoWyFMR4t8m4CWSmTAois) | Bunga Citra Lestari | 5:02 |
-| 5 | <img src="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e028fa475b368164ab5eebe1a8d" width="48" height="48" /> | [**Tak Ingin Usai**](https://open.spotify.com/track/1b0aDgrG775i4sPQgJGmkU) | Keisya Levronka | 4:38 |
-| 6 | <img src="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02cf312a99e7451a59ef915f83" width="48" height="48" /> | [**Sisa Rasa**](https://open.spotify.com/track/6pmo9ha8iOPZc5lxPU9o8w) | Mahalini | 4:14 |
-| 7 | <img src="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02c2a6c5a3ce685234f07acdb0" width="48" height="48" /> | [**Mungkin Hari Ini Esok Atau Nanti**](https://open.spotify.com/track/7n5nvulc1oW1ErpeTrNezI) | Anneth | 3:50 |
-| 8 | <img src="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e023e19058e3db31816a65baf39" width="48" height="48" /> | [**Duka**](https://open.spotify.com/track/5MIpcd16T59wFeqAChSYwC) | Last Child | 5:25 |
-| 9 | <img src="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02abbee551b5c821d7624949ae" width="48" height="48" /> | [**Pelangi**](https://open.spotify.com/track/3ZwqWrRpylU9nfy99qwKdR) | Hivi! | 3:37 |
-| 10 | <img src="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02abbee551b5c821d7624949ae" width="48" height="48" /> | [**Mata Ke Hati (Acoustic Version)**](https://open.spotify.com/track/4p5UcsOpnSYwqYnThBpDjD) | Hivi! | 3:24 |
+*🎵 Lagu-lagu favoritku di Spotify*
 
 </div>
 
 ---
+
 ## 🚀 About Me
 
 - 🎓 Computer Science student based in **Indonesia**
