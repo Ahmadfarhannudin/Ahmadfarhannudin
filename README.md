@@ -19,6 +19,8 @@
 
 *🎵 Lagu-lagu favoritku di Spotify*
 
+[![Dengarkan di Spotify](https://img.shields.io/badge/Spotify-lalaguan_we-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1L2WqUrCNTPee0GsmjWQ9V)
+
 </div>
 
 ---
