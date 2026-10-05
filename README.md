@@ -102,10 +102,11 @@ width="70%"
 
 ---
 
+
 ### 💣 Watch my contributions get blasted!
 
 <!-- 💣 Bomberman (dark theme) -->
-![bomberman contribution graph](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/main/assets/bomberman-contribution-more-green.svg)
+![bomberman contribution graph](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/output/bomberman-contribution-graph-dark.svg)
 
 </div>
 
