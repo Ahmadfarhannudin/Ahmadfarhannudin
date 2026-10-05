@@ -9,85 +9,6 @@
 
 ---
 
-## 🎧 Spotify — Now Playing
-
-<div align="center">
-
-<table width="100%">
-<tr>
-
-<td width="110" align="center">
-
-<img src="https://img.icons8.com/color/96/spotify--v1.png" width="80">
-
-</td>
-
-<td align="left">
-
-### 🎵 Now Playing
-
-**My Coding Playlist**
-
-`Spotify Playlist` • `Coding / Chill / Vibes`
-
-<br>
-
-[![Listen on Spotify](https://img.shields.io/badge/▶%20Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1L2WqUrCNTPee0GsmjWQ9V)
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<table width="100%">
-
-<tr>
-<td width="8%" align="center">01</td>
-<td width="7%" align="center">🎵</td>
-<td align="left"><strong>Song Title 01</strong><br><sub>Artist Name</sub></td>
-<td width="15%" align="right"><sub>03:42</sub></td>
-</tr>
-
-<tr>
-<td align="center">02</td>
-<td align="center">🎵</td>
-<td align="left"><strong>Song Title 02</strong><br><sub>Artist Name</sub></td>
-<td align="right"><sub>04:18</sub></td>
-</tr>
-
-<tr>
-<td align="center">03</td>
-<td align="center">🎵</td>
-<td align="left"><strong>Song Title 03</strong><br><sub>Artist Name</sub></td>
-<td align="right"><sub>03:56</sub></td>
-</tr>
-
-<tr>
-<td align="center">04</td>
-<td align="center">🎵</td>
-<td align="left"><strong>Song Title 04</strong><br><sub>Artist Name</sub></td>
-<td align="right"><sub>04:05</sub></td>
-</tr>
-
-<tr>
-<td align="center">05</td>
-<td align="center">🎵</td>
-<td align="left"><strong>Song Title 05</strong><br><sub>Artist Name</sub></td>
-<td align="right"><sub>03:31</sub></td>
-</tr>
-
-</table>
-
-<br>
-
-<sub>🎶 Currently enjoying music while coding...</sub>
-
-</div>
-
----
-
 ## 🚀 About Me
 
 - 🎓 Computer Science student based in **Indonesia**
@@ -202,6 +123,7 @@ width="70%"
 ![bomberman contribution graph](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/output/bomberman-contribution-graph-dark.svg)
 
 </div>
+
 
 ---
 
