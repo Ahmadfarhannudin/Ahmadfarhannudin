@@ -6,54 +6,86 @@
 [![Profile views](https://komarev.com/ghpvc/?username=Ahmadfarhannudin&color=58a6ff&style=flat)](https://github.com/Ahmadfarhannudin)
 
 </div>
+
+---
+
+## 🎧 Spotify — Now Playing
+
 <div align="center">
 
-### 🎧 Now Playing
-
-<table width="90%">
+<table width="100%">
 <tr>
 
-<td width="130" align="center">
+<td width="110" align="center">
 
-<a href="https://open.spotify.com/playlist/1L2WqUrCNTPee0GsmjWQ9V">
-
-<img
-src="PLAYLIST_COVER_URL"
-width="120"
-height="120"
-style="border-radius:12px"
-alt="My Spotify Playlist"
-/>
-
-</a>
+<img src="https://img.icons8.com/color/96/spotify--v1.png" width="80">
 
 </td>
 
 <td align="left">
 
-<sub>PLAYLIST</sub>
+### 🎵 Now Playing
 
-### My Playlist
+**My Coding Playlist**
 
-**Ahmad Farhannudin**
+`Spotify Playlist` • `Coding / Chill / Vibes`
 
-🎵 Playing my favorite tracks while coding...
+<br>
 
-<br><br>
-
-<a href="https://open.spotify.com/playlist/1L2WqUrCNTPee0GsmjWQ9V">
-<img
-src="https://img.shields.io/badge/▶%20Open%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
-alt="Open Spotify"
-/>
-</a>
+[![Listen on Spotify](https://img.shields.io/badge/▶%20Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1L2WqUrCNTPee0GsmjWQ9V)
 
 </td>
 
 </tr>
 </table>
 
+<br>
+
+<table width="100%">
+
+<tr>
+<td width="8%" align="center">01</td>
+<td width="7%" align="center">🎵</td>
+<td align="left"><strong>Song Title 01</strong><br><sub>Artist Name</sub></td>
+<td width="15%" align="right"><sub>03:42</sub></td>
+</tr>
+
+<tr>
+<td align="center">02</td>
+<td align="center">🎵</td>
+<td align="left"><strong>Song Title 02</strong><br><sub>Artist Name</sub></td>
+<td align="right"><sub>04:18</sub></td>
+</tr>
+
+<tr>
+<td align="center">03</td>
+<td align="center">🎵</td>
+<td align="left"><strong>Song Title 03</strong><br><sub>Artist Name</sub></td>
+<td align="right"><sub>03:56</sub></td>
+</tr>
+
+<tr>
+<td align="center">04</td>
+<td align="center">🎵</td>
+<td align="left"><strong>Song Title 04</strong><br><sub>Artist Name</sub></td>
+<td align="right"><sub>04:05</sub></td>
+</tr>
+
+<tr>
+<td align="center">05</td>
+<td align="center">🎵</td>
+<td align="left"><strong>Song Title 05</strong><br><sub>Artist Name</sub></td>
+<td align="right"><sub>03:31</sub></td>
+</tr>
+
+</table>
+
+<br>
+
+<sub>🎶 Currently enjoying music while coding...</sub>
+
 </div>
+
 ---
 
 ## 🚀 About Me
@@ -170,7 +202,6 @@ width="70%"
 ![bomberman contribution graph](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/output/bomberman-contribution-graph-dark.svg)
 
 </div>
-
 
 ---
 
