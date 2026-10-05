@@ -102,15 +102,10 @@ width="70%"
 
 ---
 
-## 💣 Watch my contributions get blasted!
+### 💣 Watch my contributions get blasted!
 
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/main/assets/bomberman-green-contribution.svg"
-width="100%"
-alt="Animated Bomberman contribution graph"
-/>
+<!-- 💣 Bomberman (dark theme) -->
+![bomberman contribution graph](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/main/assets/bomberman-contribution-more-green.svg)
 
 </div>
 
