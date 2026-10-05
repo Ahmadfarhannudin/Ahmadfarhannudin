@@ -28,31 +28,43 @@
 
 <td align="center" width="50%">
 
-### Languages
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Languages & Frameworks
 
 <br>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 </td>
 
 <td align="center" width="50%">
 
-### Mobile & Tools
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### ⚙️ Tools & Development
 
 <br>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 
 </td>
 
@@ -73,7 +85,7 @@
 <td align="center" width="50%">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Ahmadfarhannudin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+src="https://github-readme-stats.vercel.app/api?username=Ahmadfarhannudin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage"
 width="100%"
 />
 
@@ -82,7 +94,7 @@ width="100%"
 <td align="center" width="50%">
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadfarhannudin&layout=compact&theme=tokyonight&hide_border=true"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadfarhannudin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
 width="100%"
 />
 
@@ -94,7 +106,7 @@ width="100%"
 <br>
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadfarhannudin&theme=tokyonight&hide_border=true"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadfarhannudin&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
 width="70%"
 />
 
@@ -102,10 +114,12 @@ width="70%"
 
 ---
 
-
 ### 💣 Watch my contributions get blasted!
 
 <!-- 💣 Bomberman (dark theme) -->
+
+<div align="center">
+
 ![bomberman contribution graph](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/output/bomberman-contribution-graph-dark.svg)
 
 </div>
