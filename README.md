@@ -62,16 +62,36 @@
 
 <div align="center">
 
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmadfarhannudin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<table width="100%">
+<tr>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadfarhannudin&layout=compact&theme=tokyonight&hide_border=true)
+<td align="center" width="50%">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmadfarhannudin&theme=tokyonight&hide_border=true)
+<img
+src="https://github-readme-stats.vercel.app/api?username=Ahmadfarhannudin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage"
+width="100%"
+/>
 
-### 💣 Watch my contributions get blasted!
+</td>
 
-<!-- 💣 Bomberman (dark theme) -->
-![bomberman contribution graph](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/output/bomberman-contribution-graph-dark.svg)
+<td align="center" width="50%">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadfarhannudin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+width="100%"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadfarhannudin&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+width="70%"
+/>
 
 </div>
 
