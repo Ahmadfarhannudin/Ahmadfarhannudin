@@ -9,6 +9,16 @@
 
 ---
 
+## 🚀 About Me
+
+<div align="center">
+
+![profile scan](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/main/assets/profile-scan-v13.svg)
+
+</div>
+
+---
+
 ## 🎧 Now Playing on Spotify
 
 <div align="center">
@@ -20,16 +30,6 @@
 *🎵 Lagu-lagu favoritku di Spotify*
 
 [![Dengarkan di Spotify](https://img.shields.io/badge/Spotify-lalaguan_we-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1L2WqUrCNTPee0GsmjWQ9V)
-
-</div>
-
----
-
-## 🚀 About Me
-
-<div align="center">
-
-![profile scan](https://raw.githubusercontent.com/Ahmadfarhannudin/Ahmadfarhannudin/main/assets/profile-scan-v13.svg)
 
 </div>
 
